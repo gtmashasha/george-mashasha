@@ -1,0 +1,14 @@
+body{
+	background-color:#CCCCCC;
+}
+
+.container{
+	background-color:#FFFFFF;
+}
+
+footer{
+	background-color:#000000;
+	color:#FFFFFF;
+	height:75px;
+	text-align:center;
+	padding-top:50px;
